@@ -1,0 +1,10 @@
+# SOURMASH-MANIFEST-VERSION: 1.0
+internal_location,md5,md5short,ksize,moltype,num,scaled,n_hashes,with_abundance,name,filename
+signatures/9f79464142f01eb01ae523816b7f8e87.sig.gz,9f79464142f01eb01ae523816b7f8e87,9f794641,31,DNA,0,1000,11994,1,135B.pilon,135B.pilon.fasta.gz
+signatures/d62393d477d9a5094c3a1457476f9b5a.sig.gz,d62393d477d9a5094c3a1457476f9b5a,d62393d4,31,DNA,0,1000,15308,1,135e.pilon,135e.pilon.fasta.gz
+signatures/1b9d3d07e10a429e3aa898909fc4bc92.sig.gz,1b9d3d07e10a429e3aa898909fc4bc92,1b9d3d07,31,DNA,0,1000,31514,1,JB370.pilon,JB370.pilon.fasta.gz
+signatures/3d626c0f1ab63a46b2b645a22c9ecb1c.sig.gz,3d626c0f1ab63a46b2b645a22c9ecb1c,3d626c0f,31,DNA,0,1000,34424,1,JBC_canu.pilon,JBC_canu.pilon.fasta.gz
+signatures/d92f4e47e5efb09fc3047faf079aa86f.sig.gz,d92f4e47e5efb09fc3047faf079aa86f,d92f4e47,31,DNA,0,1000,23255,1,geo.pilon,geo.pilon.fasta.gz
+signatures/149bc1f0e55efbc5e33d994d72b1b8f0.sig.gz,149bc1f0e55efbc5e33d994d72b1b8f0,149bc1f0,31,DNA,0,1000,34447,1,pcamembertiSAM3_3runs.flye.diamond_microbeProteome922.fs_corrected.pilon,pcamembertiSAM3_3runs.flye.diamond_microbeProteome922.fs_corrected.pilon.fasta.gz
+signatures/0be59fcbfc0a9571468a351feb52f9c5.sig.gz,0be59fcbfc0a9571468a351feb52f9c5,0be59fcb,31,DNA,0,1000,35772,1,pen12.pilon,pen12.pilon.fasta.gz
+signatures/664370b040541641998e3f7e95b8a18f.sig.gz,664370b040541641998e3f7e95b8a18f,664370b0,31,DNA,0,1000,34203,1,rs17.pilon,rs17.pilon.fasta.gz
