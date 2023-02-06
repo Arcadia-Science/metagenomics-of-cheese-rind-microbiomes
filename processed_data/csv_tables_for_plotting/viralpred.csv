@@ -1,0 +1,21 @@
+﻿cond ,size,type
+OM2,9,provirus
+OM2,3,linear
+OM4,7,provirus
+OM4,2,linear
+OM8,1,dtr
+OM8,11,provirus
+OM8,3,linear
+EL2,6,provirus
+EL2,4,linear
+EL4,10,provirus
+EL4,7,linear
+EL8,14,provirus
+EL8,9,linear
+W1,15,provirus
+W1,30,linear
+W2,8,provirus
+W2,18,linear
+W4,1,dtr
+W4,10,provirus
+W4,19,linear

@@ -1,0 +1,205 @@
+﻿seq_name,,length,topology,coordinates,n_genes,genetic_code,virus_score,fdr,n_hallmarks,marker_enrichment,taxonomy,gene_count,viral_genes,host_genes,checkv_quality,miuvig_quality,completeness,completeness_method,contamination,kmer_freq,warnings
+contig_1209,provirus_83463_306718,223256,Provirus,83463-306718,224,11,0.9427,NA,1,28.5073,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,643,35,63,Low-quality,Genome-fragment,14.12,HMM-based (lower-bound),96.21,1.02,0
+contig_1283,,211353,Linear,NA,291,11,0.8342,NA,2,11.8876,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,291,19,5,Medium-quality,Genome-fragment,84.84,HMM-based (lower-bound),0,1.02,0
+contig_690,provirus_1_150115,150115,Provirus,1-150115,160,11,0.9595,NA,0,3.35,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,192,4,11,High-quality,High-quality,99.03,AAI-based (medium-confidence),0,1,0
+contig_1209,provirus_428205_552901,124697,Provirus,428205-552901,176,11,0.8617,NA,0,18.0829,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,643,35,63,Low-quality,Genome-fragment,14.12,HMM-based (lower-bound),96.21,1.02,0
+contig_6517,provirus_37529_139977,102449,Provirus,37529-139977,91,11,0.8915,NA,0,17.2053,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,130,7,8,High-quality,High-quality,100,AAI-based (medium-confidence),0,1,0
+contig_6151,provirus_139_67485,67347,Provirus,139-67485,105,11,0.9581,NA,0,8.2534,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,123,8,6,Low-quality,Genome-fragment,46.64,HMM-based (lower-bound),0,1,0
+contig_1758,provirus_4783_68867,64085,Provirus,4783-68867,58,11,0.9742,NA,2,8.013,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,62,2,3,Low-quality,Genome-fragment,30.67,AAI-based (medium-confidence),0,1,0
+contig_2664,,59628,Linear,NA,95,11,0.9,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,95,2,1,Low-quality,Genome-fragment,29.21,HMM-based (lower-bound),0,1.01,0
+contig_2471,,55026,Linear,NA,72,11,0.9746,NA,8,61.8218,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,72,29,0,High-quality,High-quality,98.98,AAI-based (high-confidence),0,1,0
+contig_6529,,53226,Linear,NA,95,11,0.9753,NA,10,50.3495,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,95,29,0,Medium-quality,Genome-fragment,80.49,HMM-based (lower-bound),0,1.05,0
+contig_6199,,48129,Linear,NA,64,11,0.8742,NA,0,6.5269,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,64,2,2,Low-quality,Genome-fragment,31.54,HMM-based (lower-bound),0,1.01,0
+contig_578,,44010,Linear,NA,66,11,0.9807,NA,10,55.3039,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,66,21,0,High-quality,High-quality,95.01,AAI-based (medium-confidence),0,1,0
+contig_421,provirus_332129_373358,41230,Provirus,332129-373358,58,11,0.9696,NA,12,43.7321,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,583,22,353,Medium-quality,Genome-fragment,75.09,HMM-based (lower-bound),93.41,1,low-confidence Provirus
+contig_1996,provirus_56114_95349,39236,Provirus,56114-95349,64,11,0.9725,NA,11,55.1017,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,215,34,115,Medium-quality,Genome-fragment,76.84,HMM-based (lower-bound),77.37,1,low-confidence Provirus
+contig_1113,provirus_2078827_2116551,37725,Provirus,2078827-2116551,63,11,0.9788,NA,12,60.6644,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,2315,51,1647,Medium-quality,Genome-fragment,71.57,HMM-based (lower-bound),98.46,1.01,low-confidence Provirus
+contig_2075,,36810,Linear,NA,59,11,0.9744,NA,9,32.7498,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,59,18,0,Medium-quality,Genome-fragment,78.36,AAI-based (medium-confidence),0,1.1,0
+contig_4618,,34616,Linear,NA,51,11,0.9777,NA,10,40.6926,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,51,18,0,High-quality,High-quality,90.47,AAI-based (medium-confidence),0,1,0
+contig_4722,,33768,Linear,NA,68,11,0.9657,NA,10,43.1018,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,68,30,0,High-quality,High-quality,97.71,AAI-based (high-confidence),0,1,0
+contig_4199,,33052,Linear,NA,38,11,0.9748,NA,9,26.4779,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,38,17,0,Medium-quality,Genome-fragment,52.35,HMM-based (lower-bound),0,1,0
+contig_1113,provirus_2023278_2055140,31863,Provirus,2023278-2055140,55,11,0.8442,NA,0,7.2868,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,2315,51,1647,Medium-quality,Genome-fragment,71.57,HMM-based (lower-bound),98.46,1.01,low-confidence Provirus
+contig_6260,,28985,Linear,NA,35,11,0.7954,NA,0,2.4225,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,35,1,0,Low-quality,Genome-fragment,18.64,HMM-based (lower-bound),0,1,0
+contig_3735,,28557,Linear,NA,40,11,0.9782,NA,11,33.236,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,40,12,0,Medium-quality,Genome-fragment,68.31,AAI-based (medium-confidence),0,1,0
+contig_6238,,28198,Linear,NA,47,11,0.9397,NA,6,24.1924,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,47,11,0,High-quality,High-quality,100,AAI-based (high-confidence),0,1,contig >1.5x longer than expected genome length
+contig_6647,,27860,Linear,NA,39,11,0.7794,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,39,0,0,Not-determined,Genome-fragment,NA,NA,0,1.01,no viral genes detected
+contig_1115,provirus_269903_297121,27219,Provirus,269903-297121,40,11,0.9526,NA,8,24.1579,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,465,12,299,Medium-quality,Genome-fragment,55.54,HMM-based (lower-bound),93.72,1.02,low-confidence Provirus
+contig_1456,provirus_20341_47550,27210,Provirus,20341-47550,40,11,0.9689,NA,13,29.7381,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,62,14,16,High-quality,High-quality,100,AAI-based (high-confidence),45.85,1.08,contig >1.5x longer than expected genome length
+contig_2495,,23990,Linear,NA,47,11,0.9807,NA,11,32.1216,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,47,16,0,Low-quality,Genome-fragment,33.83,HMM-based (lower-bound),0,1,0
+contig_3395,,23761,Linear,NA,32,11,0.9798,NA,3,17.5099,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,32,10,0,Low-quality,Genome-fragment,47.49,AAI-based (medium-confidence),0,1,0
+contig_1516,,23739,Linear,NA,31,11,0.9772,NA,10,29.1103,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,31,14,0,Medium-quality,Genome-fragment,55.66,AAI-based (medium-confidence),0,1,0
+contig_3383,,23517,Linear,NA,31,11,0.9789,NA,9,28.4181,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,31,13,0,Medium-quality,Genome-fragment,58.36,AAI-based (medium-confidence),0,1,0
+contig_6586,,22786,Linear,NA,21,11,0.7246,NA,2,2.845,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,21,1,1,Low-quality,Genome-fragment,29.03,HMM-based (lower-bound),0,1,0
+contig_1487,,22680,Linear,NA,36,11,0.9817,NA,9,44.9785,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,36,27,0,Medium-quality,Genome-fragment,59.27,AAI-based (high-confidence),0,1.01,0
+contig_3736,,21387,Linear,NA,33,11,0.9743,NA,7,24.842,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,33,7,0,Low-quality,Genome-fragment,34.21,HMM-based (lower-bound),0,1,0
+contig_1643,,19467,Linear,NA,27,11,0.9682,NA,2,16.0257,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Rountreeviridae,27,15,1,High-quality,High-quality,100,AAI-based (high-confidence),0,1,0
+contig_6267,,18971,Linear,NA,37,11,0.9803,NA,7,20.4026,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,37,13,0,Low-quality,Genome-fragment,35.23,HMM-based (lower-bound),0,1,0
+contig_6469,,18609,Linear,NA,27,11,0.9712,NA,9,16.7995,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,27,13,1,High-quality,High-quality,100,AAI-based (medium-confidence),0,1,0
+contig_6274,,17461,Linear,NA,27,11,0.97,NA,6,21.5954,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,27,9,0,High-quality,High-quality,100,AAI-based (medium-confidence),0,1,0
+contig_4184,,17399,Linear,NA,45,11,0.9545,NA,1,9.8097,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,45,5,0,Low-quality,Genome-fragment,13.58,HMM-based (lower-bound),0,1,0
+contig_3613,,16432,Linear,NA,23,11,0.9785,NA,8,22.7677,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,23,13,0,Low-quality,Genome-fragment,38.87,AAI-based (high-confidence),0,1,0
+contig_4063,,15157,Linear,NA,27,11,0.9109,NA,4,16.8079,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,27,9,1,Low-quality,Genome-fragment,21.74,HMM-based (lower-bound),0,1,0
+contig_3384,,15068,Linear,NA,17,11,0.974,NA,2,10.9555,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,17,4,0,Low-quality,Genome-fragment,24.89,HMM-based (lower-bound),0,1,0
+contig_3162,,14878,Linear,NA,20,11,0.9779,NA,5,21.4423,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,20,11,0,High-quality,High-quality,94.45,AAI-based (medium-confidence),0,1,0
+contig_5508,,14658,Linear,NA,25,11,0.9721,NA,5,15.092,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,25,10,0,Low-quality,Genome-fragment,24.27,HMM-based (lower-bound),0,1,0
+contig_6375,,14492,Linear,NA,29,11,0.9581,NA,0,11.678,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,29,6,1,Low-quality,Genome-fragment,29.36,AAI-based (medium-confidence),0,1.01,0
+contig_3214,,14467,Linear,NA,9,11,0.8724,NA,0,1.7183,Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes,9,1,0,Low-quality,Genome-fragment,34.42,HMM-based (lower-bound),0,1.02,0
+contig_940,,14384,Linear,NA,22,11,0.9714,NA,5,16.5139,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,22,13,0,Low-quality,Genome-fragment,31.84,AAI-based (medium-confidence),0,1,0
+contig_2516,,14290,Linear,NA,31,11,0.9764,NA,3,21.0414,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,31,14,0,Low-quality,Genome-fragment,20.78,AAI-based (medium-confidence),0,1.7,high kmer_freq may indicate large duplication
+contig_5381,,13777,Linear,NA,28,11,0.9823,NA,8,31.4507,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,28,19,0,Low-quality,Genome-fragment,20.47,HMM-based (lower-bound),0,1,0
+contig_2329,,13549,Linear,NA,18,11,0.9145,NA,3,9.0399,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,18,7,0,Low-quality,Genome-fragment,21.34,HMM-based (lower-bound),0,1.02,0
+contig_2234,,13442,Linear,NA,15,11,0.9103,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,15,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_6243,,13408,Linear,NA,14,11,0.9184,NA,1,1.5934,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,14,0,2,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_2508,,13319,Linear,NA,30,11,0.9793,NA,0,22.1903,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,30,14,0,Low-quality,Genome-fragment,29.84,AAI-based (high-confidence),0,1,0
+contig_5578,,13259,Linear,NA,25,11,0.9219,NA,0,4.0135,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,25,2,0,Low-quality,Genome-fragment,13.89,HMM-based (lower-bound),0,1,0
+contig_6408,,13092,Linear,NA,17,11,0.9571,NA,3,13.093,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,17,12,0,Low-quality,Genome-fragment,24.8,AAI-based (high-confidence),0,1,0
+contig_3371,,12929,Linear,NA,20,11,0.9754,NA,5,12.3721,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,20,6,0,Low-quality,Genome-fragment,28.12,AAI-based (medium-confidence),0,1.08,0
+contig_6460,,11738,Linear,NA,20,11,0.9808,NA,6,22.562,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,20,15,0,Low-quality,Genome-fragment,28.6,AAI-based (medium-confidence),0,1,0
+contig_5076,,11734,Linear,NA,12,11,0.7402,NA,1,4.2438,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_6438,,11523,Linear,NA,20,11,0.9084,NA,3,5.5211,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,20,3,0,Low-quality,Genome-fragment,15.79,HMM-based (lower-bound),0,1,0
+contig_6578,,11310,Linear,NA,14,11,0.917,NA,0,3.4461,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,14,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_2577,,10878,Linear,NA,16,11,0.9242,NA,1,4.1623,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,16,2,0,Low-quality,Genome-fragment,15.2,HMM-based (lower-bound),0,1,0
+contig_2815,,10685,Linear,NA,18,11,0.9451,NA,0,5.2974,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,18,5,0,Medium-quality,Genome-fragment,59.03,AAI-based (medium-confidence),0,1.05,0
+contig_2835,,10600,Linear,NA,8,11,0.8297,NA,0,3.0357,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,8,0,0,Low-quality,Genome-fragment,11.67,AAI-based (medium-confidence),0,1,no viral genes detected
+contig_2515,,10516,Linear,NA,17,11,0.9794,NA,4,18.2162,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,17,9,0,Low-quality,Genome-fragment,19.55,AAI-based (high-confidence),0,1,0
+contig_3373,,10408,Linear,NA,18,11,0.8131,NA,0,4.4798,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,18,2,0,Low-quality,Genome-fragment,6.66,HMM-based (lower-bound),0,1,0
+contig_6554,,10139,Linear,NA,11,11,0.9461,NA,1,9.9273,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,11,7,0,Low-quality,Genome-fragment,12.33,HMM-based (lower-bound),0,1,0
+contig_1566,,9901,Linear,NA,18,11,0.9039,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,18,1,0,Low-quality,Genome-fragment,4.6,HMM-based (lower-bound),0,1,0
+contig_1462,,9734,Linear,NA,17,11,0.9549,NA,0,8.5802,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,17,1,0,Low-quality,Genome-fragment,12.25,HMM-based (lower-bound),0,1,0
+contig_5959,,9298,Linear,NA,12,11,0.7424,NA,2,4.1381,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_2509,,9271,Linear,NA,17,11,0.9739,NA,0,16.0965,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,17,10,0,Low-quality,Genome-fragment,21.65,AAI-based (high-confidence),0,1,0
+contig_2119,,9219,Linear,NA,11,11,0.969,NA,4,7.3038,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,11,6,1,Low-quality,Genome-fragment,22.12,AAI-based (high-confidence),0,1,0
+contig_1567,,9202,Linear,NA,14,11,0.7199,NA,0,0.8584,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,14,1,0,Low-quality,Genome-fragment,17.52,HMM-based (lower-bound),0,1,0
+contig_1490,,8960,Linear,NA,8,11,0.9821,NA,2,9.9195,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,8,6,1,Low-quality,Genome-fragment,21.05,AAI-based (high-confidence),0,1,0
+contig_3372,,8750,Linear,NA,15,11,0.9266,NA,1,5.7009,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,15,3,0,Low-quality,Genome-fragment,11.9,HMM-based (lower-bound),0,1,0
+contig_2264,,8695,Linear,NA,15,11,0.8308,NA,2,4.365,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,15,3,0,Low-quality,Genome-fragment,26.15,AAI-based (medium-confidence),0,1,0
+contig_4833,,8589,Linear,NA,13,11,0.9212,NA,1,5.5876,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,13,3,0,Low-quality,Genome-fragment,16.46,AAI-based (medium-confidence),0,1,0
+contig_2756,,8471,Linear,NA,14,11,0.9683,NA,2,7.6804,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,14,2,0,Low-quality,Genome-fragment,7.16,HMM-based (lower-bound),0,1,0
+contig_1985,,8377,Linear,NA,11,11,0.7237,NA,0,1.2947,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,11,0,0,Not-determined,Genome-fragment,NA,NA,0,1.01,no viral genes detected
+contig_3744,,8156,Linear,NA,15,11,0.8716,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,15,0,3,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4947,,8027,Linear,NA,11,11,0.9763,NA,1,6.8374,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,11,4,0,Low-quality,Genome-fragment,18.82,HMM-based (lower-bound),0,1,0
+contig_2510,,8018,Linear,NA,19,11,0.9684,NA,0,8.8722,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,19,7,0,Low-quality,Genome-fragment,18.44,AAI-based (high-confidence),0,1,0
+contig_4281,,7494,Linear,NA,10,11,0.9348,NA,0,3.0997,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,2,0,Low-quality,Genome-fragment,4.6,AAI-based (medium-confidence),0,1,0
+contig_5184,provirus_5697_13167,7471,Provirus,5697-13167,12,11,0.9807,NA,1,13.6407,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,19,5,2,Low-quality,Genome-fragment,23.44,HMM-based (lower-bound),0,1,0
+contig_2754,,7399,Linear,NA,6,11,0.7579,NA,0,0,Unclassified,6,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_5134,,7359,Linear,NA,18,11,0.9489,NA,0,3.3443,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,18,2,1,Low-quality,Genome-fragment,7.66,HMM-based (lower-bound),0,1,0
+contig_4139,,7358,Linear,NA,8,11,0.7327,NA,0,0.6657,Viruses,8,0,0,Not-determined,Genome-fragment,NA,NA,0,1.03,no viral genes detected
+contig_3469,,7262,Linear,NA,12,11,0.7719,NA,0,0,Unclassified,12,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_1625,,7091,Linear,NA,16,11,0.9831,NA,2,20.2238,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,16,12,0,Low-quality,Genome-fragment,16.48,AAI-based (high-confidence),0,1,0
+contig_2811,,7079,Linear,NA,10,11,0.9801,NA,6,12.7031,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,9,0,Low-quality,Genome-fragment,45.39,AAI-based (medium-confidence),0,1,0
+contig_3813,,7038,Linear,NA,10,11,0.9509,NA,0,1.62,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_2511,,6975,Linear,NA,7,11,0.9809,NA,0,6.3898,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,4,0,Low-quality,Genome-fragment,17.02,AAI-based (high-confidence),0,1.01,0
+contig_5684,,6968,Linear,NA,12,11,0.9821,NA,5,11.3306,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,8,0,Low-quality,Genome-fragment,9.7,HMM-based (lower-bound),0,1,0
+contig_2550,,6964,Linear,NA,6,11,0.8917,NA,0,1.7183,Unclassified,6,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3128,,6832,Linear,NA,9,4,0.7587,NA,0,1.6398,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,9,4,0,Low-quality,Genome-fragment,13.6,HMM-based (lower-bound),0,1.03,0
+contig_2812,,6775,Linear,NA,9,11,0.979,NA,4,11.0053,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,9,7,0,Low-quality,Genome-fragment,42.13,AAI-based (medium-confidence),0,1,0
+contig_1624,,6644,Linear,NA,15,11,0.9809,NA,1,15.814,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,15,10,0,Low-quality,Genome-fragment,15.54,AAI-based (high-confidence),0,1,0
+contig_5891,,6528,Linear,NA,10,11,0.9735,NA,5,10.7618,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,10,0,Low-quality,Genome-fragment,15.89,AAI-based (medium-confidence),0,1,0
+contig_2936,,6441,Linear,NA,9,11,0.8802,NA,0,1.2667,Unclassified,9,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_6265,,6205,Linear,NA,12,11,0.9432,NA,1,5.7206,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,1,0,Low-quality,Genome-fragment,9.05,HMM-based (lower-bound),0,1.02,0
+contig_2816,,6160,Linear,NA,11,11,0.9174,NA,0,3.4366,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,11,1,0,Low-quality,Genome-fragment,4.3,HMM-based (lower-bound),0,1,0
+contig_4801,,5978,Linear,NA,8,11,0.9832,NA,4,13.1596,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,8,8,0,Low-quality,Genome-fragment,13.8,AAI-based (medium-confidence),0,1,0
+contig_4700,,5945,Linear,NA,12,11,0.9694,NA,0,6.7193,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,5,0,Low-quality,Genome-fragment,9.67,HMM-based (lower-bound),0,1,0
+contig_2758,,5856,Linear,NA,12,11,0.7236,NA,0,1.2458,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3532,,5831,Linear,NA,11,11,0.8609,NA,0,0.9475,Unclassified,11,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3727,,5816,Linear,NA,16,11,0.9536,NA,0,2.9898,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,16,3,0,Low-quality,Genome-fragment,8.13,HMM-based (lower-bound),0,1,0
+contig_3153,,5688,Linear,NA,12,11,0.8856,NA,1,2.3745,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,1,0,Low-quality,Genome-fragment,7.71,HMM-based (lower-bound),0,1,0
+contig_5176,,5660,Linear,NA,7,11,0.9598,NA,1,4.7877,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,2,0,Low-quality,Genome-fragment,5.8,HMM-based (lower-bound),0,1,0
+contig_2415,,5641,Linear,NA,5,11,0.9597,NA,0,4.0286,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,1,0,Low-quality,Genome-fragment,3.02,HMM-based (lower-bound),0,1,0
+contig_6611,,5623,Linear,NA,4,11,0.934,NA,0,3.0066,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,2,0,Low-quality,Genome-fragment,7.6,HMM-based (lower-bound),0,1,0
+contig_2478,,5621,Linear,NA,11,11,0.7556,NA,1,2.1936,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,11,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_1755,,5568,Linear,NA,9,11,0.9686,NA,2,4.9821,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,9,3,0,Low-quality,Genome-fragment,6.23,HMM-based (lower-bound),0,1,0
+contig_3949,,5544,Linear,NA,10,11,0.9576,NA,2,8.6183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,3,0,Low-quality,Genome-fragment,14.59,AAI-based (medium-confidence),0,1,0
+contig_5954,,5500,Linear,NA,10,11,0.9744,NA,0,4.4307,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,3,0,Low-quality,Genome-fragment,7.96,HMM-based (lower-bound),0,1,0
+contig_2292,,5489,Linear,NA,10,11,0.9827,NA,1,12.8308,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,8,0,Low-quality,Genome-fragment,12.78,AAI-based (high-confidence),0,1,0
+contig_3043,,5468,Linear,NA,11,11,0.9719,NA,0,8.412,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,11,5,0,Low-quality,Genome-fragment,12.4,AAI-based (high-confidence),0,1,0
+contig_5823,,5419,Linear,NA,8,11,0.9717,NA,1,7.2121,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,8,3,0,Low-quality,Genome-fragment,13,AAI-based (medium-confidence),0,1,0
+contig_3807,,5292,Linear,NA,12,11,0.9034,NA,1,3.416,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,12,1,0,Low-quality,Genome-fragment,7.17,HMM-based (lower-bound),0,1,0
+contig_3566,,5277,Linear,NA,8,11,0.8409,NA,0,3.4348,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,8,1,0,Low-quality,Genome-fragment,11.65,HMM-based (lower-bound),0,1,0
+contig_6341,,5151,Linear,NA,6,11,0.7893,NA,0,0,Unclassified,6,1,0,Low-quality,Genome-fragment,12.26,HMM-based (lower-bound),0,1,0
+contig_916,,5110,Linear,NA,8,11,0.7063,NA,0,0,Unclassified,8,0,3,Not-determined,Genome-fragment,NA,NA,0,1.14,no viral genes detected
+contig_1857,,4903,Linear,NA,7,11,0.7765,NA,0,0,Unclassified,7,0,0,Not-determined,Genome-fragment,NA,NA,0,1.01,no viral genes detected
+contig_2453,,4859,Linear,NA,9,11,0.8836,NA,0,6.4435,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,9,2,0,Low-quality,Genome-fragment,13.28,AAI-based (high-confidence),0,1,0
+contig_4788,,4793,Linear,NA,3,11,0.781,NA,0,1.7072,Unclassified,3,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4728,,4769,Linear,NA,2,11,0.7344,NA,0,0,Unclassified,2,0,0,Low-quality,Genome-fragment,5.38,AAI-based (medium-confidence),0,1,no viral genes detected
+contig_2727,,4720,Linear,NA,14,11,0.7567,NA,0,1.7183,Unclassified,14,1,0,Low-quality,Genome-fragment,3.01,HMM-based (lower-bound),0,1,0
+contig_2505,,4700,Linear,NA,13,11,0.748,NA,0,0,Unclassified,13,4,0,Low-quality,Genome-fragment,10.39,HMM-based (lower-bound),0,1,0
+contig_3960,,4666,Linear,NA,7,11,0.7304,NA,0,1.7128,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,0,1,Low-quality,Genome-fragment,2.96,AAI-based (high-confidence),0,1,no viral genes detected
+contig_1007,,4627,Linear,NA,7,11,0.7937,NA,0,2.7381,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,4,0,Low-quality,Genome-fragment,10.2,AAI-based (high-confidence),0,1.42,0
+contig_5180,,4355,Linear,NA,10,11,0.7224,NA,0,0.9821,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,10,2,0,Low-quality,Genome-fragment,3.44,HMM-based (lower-bound),0,1,0
+contig_1458,,4324,Linear,NA,9,4,0.8893,NA,0,2.9343,Unclassified,9,2,0,Low-quality,Genome-fragment,7.23,AAI-based (high-confidence),0,1,0
+contig_3728,,4281,Linear,NA,8,11,0.9568,NA,1,2.9849,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,8,2,0,Low-quality,Genome-fragment,9.68,AAI-based (high-confidence),0,1,0
+contig_2817,,4243,Linear,NA,7,11,0.9228,NA,0,3.2842,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_2503,,4113,Linear,NA,5,11,0.9809,NA,3,6.3665,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,2,0,Low-quality,Genome-fragment,9.51,AAI-based (medium-confidence),0,1,0
+contig_3799,,4032,Linear,NA,5,11,0.9787,NA,0,6.6319,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,3,0,Low-quality,Genome-fragment,4.7,HMM-based (lower-bound),0,1,0
+contig_2502,,4014,Linear,NA,6,11,0.9771,NA,2,4.8501,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,6,2,0,Low-quality,Genome-fragment,9.28,AAI-based (medium-confidence),0,1,0
+contig_5813,,4011,Linear,NA,4,11,0.761,NA,0,0,Unclassified,4,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_1550,,3991,Linear,NA,5,11,0.7996,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,0,3,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_859,,3857,Linear,NA,7,11,0.9657,NA,0,8.0258,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,4,0,Low-quality,Genome-fragment,8.32,AAI-based (high-confidence),0,1.1,0
+contig_3569,,3772,Linear,NA,5,11,0.9742,NA,1,5.8723,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,4,0,Low-quality,Genome-fragment,6.88,HMM-based (lower-bound),0,1,0
+contig_5952,,3720,Linear,NA,5,11,0.9186,NA,1,1.3307,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,1,0,Low-quality,Genome-fragment,5.58,AAI-based (medium-confidence),0,1,0
+contig_1617,,3563,Linear,NA,3,11,0.8529,NA,0,1.331,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,1,0,Low-quality,Genome-fragment,2.29,HMM-based (lower-bound),0,1,0
+contig_3568,,3527,Linear,NA,6,11,0.9752,NA,0,4.7575,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,6,5,0,Low-quality,Genome-fragment,6.43,HMM-based (lower-bound),0,1,0
+contig_1618,,3442,Linear,NA,4,11,0.7388,NA,0,1.331,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,1,0,Low-quality,Genome-fragment,2.21,HMM-based (lower-bound),0,1,0
+contig_4757,,3433,Linear,NA,5,11,0.7813,NA,0,3.4366,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3036,,3414,Linear,NA,6,11,0.7725,NA,1,1.4835,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,6,0,0,Low-quality,Genome-fragment,22.32,AAI-based (medium-confidence),0,1,no viral genes detected
+contig_3570,,3341,Linear,NA,4,11,0.965,NA,1,2.8529,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,2,0,Low-quality,Genome-fragment,6.51,HMM-based (lower-bound),0,1,0
+contig_1488,,3336,Linear,NA,4,15,0.97,NA,0,3.064,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,3,0,Low-quality,Genome-fragment,8.03,AAI-based (medium-confidence),0,1,0
+contig_1489,,3334,Linear,NA,1,11,0.9558,NA,1,1.0886,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,1,0,Low-quality,Genome-fragment,5.55,HMM-based (lower-bound),0,1,0
+contig_4787,,3307,Linear,NA,5,11,0.7338,NA,0,0,Unclassified,5,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3863,,3298,Linear,NA,4,11,0.7451,NA,0,0,Unclassified,4,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4718,,3266,Linear,NA,6,11,0.8189,NA,0,1.2314,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,6,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4755,,3245,Linear,NA,7,11,0.9764,NA,3,4.9453,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,3,0,Low-quality,Genome-fragment,8.14,AAI-based (medium-confidence),0,1,0
+contig_3571,,3208,Linear,NA,3,11,0.9723,NA,1,2.8529,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,2,0,Low-quality,Genome-fragment,6.25,HMM-based (lower-bound),0,1,0
+contig_4562,,3205,Linear,NA,3,11,0.9111,NA,0,1.7158,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_5638,,3095,Linear,NA,2,11,0.9601,NA,1,3.19,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,2,1,0,Low-quality,Genome-fragment,6.52,HMM-based (lower-bound),0,1,0
+contig_3721,,3001,Linear,NA,9,11,0.9365,NA,0,3.1812,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,9,1,0,Low-quality,Genome-fragment,6.62,AAI-based (medium-confidence),0,1,0
+contig_2507,,2928,Linear,NA,7,11,0.973,NA,0,4.5618,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,4,0,Low-quality,Genome-fragment,4.07,AAI-based (medium-confidence),0,1,0
+contig_1762,,2757,Linear,NA,3,11,0.7778,NA,0,0,Unclassified,3,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4068,,2756,Linear,NA,2,11,0.715,NA,0,0,Unclassified,2,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_5895,,2740,Linear,NA,5,11,0.7243,NA,0,0,Unclassified,5,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4388,,2734,Linear,NA,4,11,0.7428,NA,1,1.2306,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4060,,2686,Linear,NA,6,11,0.87,NA,0,1.5875,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,6,1,0,Low-quality,Genome-fragment,3.91,HMM-based (lower-bound),0,1,0
+contig_1555,,2659,Linear,NA,6,11,0.8177,NA,1,5.1548,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,6,3,0,Low-quality,Genome-fragment,6.09,HMM-based (lower-bound),0,1,0
+contig_3413,,2650,Linear,NA,4,11,0.7011,NA,0,0,Unclassified,4,0,2,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_5104,,2635,Linear,NA,7,11,0.9647,NA,1,6.8731,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_5328,,2614,Linear,NA,7,11,0.9469,NA,1,3.0748,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,7,2,0,Low-quality,Genome-fragment,5.76,AAI-based (medium-confidence),0,1.05,0
+contig_1339,,2610,Linear,NA,4,11,0.8225,NA,1,3.9406,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,3,0,Low-quality,Genome-fragment,4.32,HMM-based (lower-bound),0,1,0
+contig_1189,,2590,Linear,NA,2,11,0.701,NA,0,0,Unclassified,2,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_5512,,2537,Linear,NA,4,11,0.8163,NA,0,1.3511,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4061,,2516,Linear,NA,4,11,0.9767,NA,4,5.2318,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,4,0,Low-quality,Genome-fragment,6.5,AAI-based (medium-confidence),0,1,0
+contig_1502,,2498,Linear,NA,5,11,0.8275,NA,0,1.2183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,1,0,Low-quality,Genome-fragment,3.84,HMM-based (lower-bound),0,1,0
+contig_3726,,2402,Linear,NA,5,11,0.9345,NA,0,3.1121,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,2,0,Low-quality,Genome-fragment,3.6,AAI-based (medium-confidence),0,1,0
+contig_1359,,2401,Linear,NA,5,11,0.8588,NA,0,2.3598,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,1,0,Low-quality,Genome-fragment,3.78,HMM-based (lower-bound),0,1,0
+contig_1148,,2397,Linear,NA,8,11,0.9766,NA,1,6.3579,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,8,3,0,Low-quality,Genome-fragment,3.25,HMM-based (lower-bound),0,1,0
+contig_4555,,2380,Linear,NA,4,11,0.7372,NA,0,0,Unclassified,4,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_4967,,2347,Linear,NA,4,11,0.7912,NA,1,1.375,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,1,0,Low-quality,Genome-fragment,1.34,HMM-based (lower-bound),0,1,0
+contig_1572,,2336,Linear,NA,2,11,0.7381,NA,0,0,Unclassified,2,0,2,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_5923,,2298,Linear,NA,2,11,0.7323,NA,0,0,Unclassified,2,0,0,Not-determined,Genome-fragment,NA,NA,0,1.08,no viral genes detected
+contig_2512,,2255,Linear,NA,4,11,0.8737,NA,0,2.5888,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,0,0,Low-quality,Genome-fragment,5.32,AAI-based (high-confidence),0,1,no viral genes detected
+contig_4027,,2220,Linear,NA,1,11,0.7778,NA,0,0,Unclassified,1,0,1,Low-quality,Genome-fragment,2.32,AAI-based (medium-confidence),0,1.06,no viral genes detected
+contig_5001,,2020,Linear,NA,3,11,0.7712,NA,0,1.5378,Unclassified,3,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3379,,2006,Linear,NA,4,11,0.8829,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,2,0,Low-quality,Genome-fragment,3.81,AAI-based (medium-confidence),0,1,0
+contig_2873,,2003,Linear,NA,2,11,0.7684,NA,0,0.9624,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,2,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3376,,1940,Linear,NA,3,11,0.7443,NA,0,1.2194,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,1,0,Low-quality,Genome-fragment,4.93,AAI-based (high-confidence),0,1,0
+contig_1642,,1801,Linear,NA,6,4,0.9231,NA,0,1.5555,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,6,2,0,Low-quality,Genome-fragment,1.24,HMM-based (lower-bound),0,1,0
+contig_1146,,1700,Linear,NA,5,11,0.964,NA,0,3.0256,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,5,3,0,Low-quality,Genome-fragment,1.62,AAI-based (high-confidence),0,1,0
+contig_2810,,1628,Linear,NA,3,11,0.9512,NA,2,3.3955,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,2,0,Low-quality,Genome-fragment,8.52,AAI-based (medium-confidence),0,1,0
+contig_3377,,1612,Linear,NA,3,11,0.8721,NA,0,1.1096,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,1,0,Low-quality,Genome-fragment,3.42,AAI-based (high-confidence),0,1,0
+contig_2820,,1378,Linear,NA,3,11,0.8174,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_1465,,1250,Linear,NA,4,4,0.8029,NA,0,1.3954,Unclassified,4,0,0,Low-quality,Genome-fragment,2.09,AAI-based (medium-confidence),0,1,no viral genes detected
+contig_2514,,1147,Linear,NA,1,11,0.9633,NA,0,1.468,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,0,0,Low-quality,Genome-fragment,2.81,AAI-based (high-confidence),0,1,no viral genes detected
+contig_1147,,1123,Linear,NA,4,11,0.9322,NA,0,2.9856,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,4,1,0,Low-quality,Genome-fragment,2.23,AAI-based (high-confidence),0,1,0
+contig_1149,,1046,Linear,NA,3,11,0.9568,NA,0,2.4018,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,3,1,0,Low-quality,Genome-fragment,2.48,AAI-based (medium-confidence),0,1,0
+contig_2472,,867,Linear,NA,1,11,0.9359,NA,1,1.5032,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,1,0,Low-quality,Genome-fragment,1.49,AAI-based (high-confidence),0,1,0
+contig_1289,,773,Linear,NA,1,11,0.7277,NA,0,0,Unclassified,1,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3374,,690,Linear,NA,1,11,0.9537,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,1,0,Low-quality,Genome-fragment,1.07,HMM-based (lower-bound),0,1,0
+contig_4424,,688,Linear,NA,1,11,0.902,NA,0,1.2194,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,1,0,Low-quality,Genome-fragment,1.75,AAI-based (medium-confidence),0,1,0
+contig_3725,,672,Linear,NA,3,11,0.7324,NA,0,0,Unclassified,3,0,0,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_3375,,635,Linear,NA,2,11,0.963,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,2,1,0,Low-quality,Genome-fragment,0.83,HMM-based (lower-bound),0,1,0
+contig_2740,,625,Linear,NA,2,11,0.7264,NA,0,0,Unclassified,2,0,0,Not-determined,Genome-fragment,NA,NA,0,1.02,no viral genes detected
+contig_4425,,604,Linear,NA,1,11,0.8956,NA,0,1.1096,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,1,0,Low-quality,Genome-fragment,1.37,AAI-based (medium-confidence),0,1,0
+contig_1233,,595,Linear,NA,1,11,0.7615,NA,0,0,Unclassified,1,0,1,Not-determined,Genome-fragment,NA,NA,0,1,no viral genes detected
+contig_2506,,512,Linear,NA,1,4,0.9415,NA,0,1.7183,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,1,0,Low-quality,Genome-fragment,1.17,AAI-based (high-confidence),0,1,0
+contig_289,,502,Linear,NA,1,11,0.9216,NA,0,1.2265,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,0,0,Low-quality,Genome-fragment,1.13,AAI-based (medium-confidence),0,1,no viral genes detected
+contig_3730,,487,Linear,NA,1,11,0.9626,NA,1,1.5137,Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes,1,1,0,Low-quality,Genome-fragment,0.9,HMM-based (lower-bound),0,1,0
