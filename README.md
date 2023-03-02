@@ -4,4 +4,4 @@ This repository contains code, raw data, and results files used for analyzing me
 
 The "viral_prediction_summary_tables" folder within 'processed_data' contains summaries of the combined viral prediction tables from [GeNomad 1.2.0 with database v1.1](https://zenodo.org/record/7015982#.Y9hoMi2B28c) and [CheckV 1.0.1 with database v1.4](https://www.nature.com/articles/s41587-020-00774-7) for nine of the long read metagenomic assemblies.
 
-The "cheesegenomes-k31-scaled1k" within 'databases' contains sourmash signatures from previously sequenced microbial genomes from cheese. These signatures were used in the 'sourmash gather' analysis.
+The "cheesegenomes-k31-scaled1k" within 'databases' contains sourmash signatures from previously sequenced microbial genomes from cheese. These signatures were used in the 'sourmash gather' analysis. Sourmash signatures used to create the MDS plot of the assemblies can be found in the "sourmashsigs" folder within 'processed_data'. 
