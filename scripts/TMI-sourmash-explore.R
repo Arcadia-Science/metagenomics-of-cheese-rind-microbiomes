@@ -163,6 +163,6 @@ classified_plot <- ggarrange(illumina_assemb_classified_plot, nanopore_assembs_c
 
 classified_plot
 
-ggsave("figures/TMI_classified_plot.png", classified_plot, width=30, height=15, units=c("cm"))
+ggsave("figures/TMI_classified_plot.pdf", classified_plot, width=30, height=15, units=c("cm"))
 
-ggsave("figures/TMI_nanopore_assembs_tax_sankey.png", nanopore_assembs_tax_sankey_plot, width=30, height=20, units=c("cm"))
+ggsave("figures/TMI_nanopore_assembs_tax_sankey.pdf", nanopore_assembs_tax_sankey_plot, width=30, height=20, units=c("cm"))
