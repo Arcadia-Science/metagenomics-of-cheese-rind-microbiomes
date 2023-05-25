@@ -1,0 +1,7 @@
+*.Rproj
+processed_data/2023*
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
